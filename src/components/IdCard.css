@@ -1,0 +1,13 @@
+.IdCard {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+
+.UserInfos {
+  text-align: left;
+}
+
+.UserInfos > ul {
+  list-style-type: none;
+}
