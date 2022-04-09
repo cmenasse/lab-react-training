@@ -1,0 +1,33 @@
+.CreditCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid black;
+  height: 150px;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+}
+
+.bankLogo {
+  text-align: right;
+}
+.bankLogo > img {
+  width: 50px;
+  height: auto;
+}
+
+.CardNumber{
+  text-align: center;
+  font-size: x-large;
+}
+
+.CardInfos{
+  text-align: left;
+}
+
+.bankName{
+  margin-left: 2rem;
+
+}
